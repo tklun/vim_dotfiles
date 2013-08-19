@@ -239,3 +239,7 @@ function! __HardMode()
   nmap k <nop>
   nmap l <nop>
 endfunction
+nnoremap <Left> h
+nnoremap <Right> l
+nnoremap <Up> k
+nnoremap <Down> j
